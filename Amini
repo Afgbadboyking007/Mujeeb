@@ -1,0 +1,7 @@
+git clonehttps://github.com/Afgbadboyking007/Mujeeb.git
+
+cd Mujeeb
+
+ls
+
+python Amini.py
